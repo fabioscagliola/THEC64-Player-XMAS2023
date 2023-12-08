@@ -1,6 +1,6 @@
 # THEC64 Player XMAS2023
 
-A music player for the Commodore 64 including "Feliz Navidad" by José Feliciano.
+A (work in progress) music player for the Commodore 64 including (the first bar of) "Feliz Navidad" by José Feliciano.
 
 ## Introduction
 
@@ -10,11 +10,11 @@ Since 2019 I have been wishing happy winter holidays to my family and friends by
 
 I developed the music player using [CBM prg Studio](https://www.ajordison.co.uk) and tested it using [C64 Forever](https://www.c64forever.com/).
 
-{::comment}
 ## Video
 
-You can watch the video on my YouTube channel.
+As soon as I finish this, you will be able to watch the video on my YouTube channel.
 
-[!["Feliz Navidad" on the Commodore 64](XMAS2023.png)](https://youtu.be/)
-{:/comment}
+In the meantime, here is a screenshot.
+
+!["Feliz Navidad" on the Commodore 64](XMAS2023.png)
 
